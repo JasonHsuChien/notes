@@ -2,5 +2,5 @@
 
 > An awesome project.
 
+点击左下角'三'按钮
 
-https://zhuanlan.zhihu.com/p/149288774?from_voters_page=true
